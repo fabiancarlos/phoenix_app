@@ -1,6 +1,6 @@
 # PhoenixApp
 
-Just a test.
+Just a test. Another.
 
 To start your Phoenix server:
 
